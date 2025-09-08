@@ -19,3 +19,8 @@ This is a single-file Express + MongoDB backend that provides:
 ---
 
 ## 📂 Project Structure
+
+├── app.js # Single-file backend app
+├── package.json # Dependencies + scripts
+├── .env.example # Environment variables template
+└── .gitignore
